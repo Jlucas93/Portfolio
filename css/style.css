@@ -147,10 +147,16 @@ nav a:hover{
     color: white;
 }
 
-.contact div{
+.text-c{
 padding-top: 10px;
 margin-left: 145px;
 }
+
+.icons a{
+padding-left: 0;
+text-align: justify;
+}
+
 
 .works{
     width: 320px;
