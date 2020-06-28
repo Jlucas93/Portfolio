@@ -127,6 +127,12 @@ nav a:hover{
     font-size: 20px;
 }
 
+.toppage a:hover{
+color: #53b3cb;
+transition: 0.5s;
+}
+
+
 .contact{
     font-size: 18px;
     color: white;
