@@ -157,6 +157,11 @@ padding-left: 0;
 text-align: justify;
 }
 
+.icons img:hover{
+    transform: scale(1.5);
+    transition: 0.5s;
+}
+
 
 .works{
     width: 320px;
