@@ -276,6 +276,7 @@ text-align: justify;
     }
     .main{
         padding: 10px 5% 40px 5%;
+        width: 100%;
     }
 
     .pic-c{
