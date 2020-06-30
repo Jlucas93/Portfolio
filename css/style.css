@@ -272,12 +272,10 @@ text-align: justify;
     .capa{
         display: block;
         height: auto;
-        text-align: center;
-        width: auto;
+        text-align: center;   
     }
     .main{
         padding: 10px 5% 40px 5%;
-        width: 100%;
     }
 
     .pic-c{
