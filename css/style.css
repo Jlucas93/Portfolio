@@ -97,9 +97,6 @@ nav a:hover{
     width: 60%;
     vertical-align: top;
     margin-top: 150px;
-
-    animation-name: mymove-text;
-    animation-duration: 3.5s;
 }
 
 .main img{
@@ -113,9 +110,6 @@ nav a:hover{
     font-size: 16px;
     padding: 100px 180px 80px 100px;
 
-
-    animation-name: principal;
-    animation-duration: 3.5s;
 }
 
 .main h1{
@@ -161,8 +155,7 @@ transition: 0.5s;
     color: white;
     text-align: left;
 
-    animation-name: principal;
-    animation-duration: 3.5s;
+
 }
 .contact h1{
     color: #e01a4f;
@@ -227,28 +220,5 @@ text-align: justify;
     text-transform: uppercase;
     color: whitesmoke;
     font-size: 18px;
-}
-
-
-@keyframes mymove{
-
-    0% {opacity: 0; transform: translate(-10px,0px);}
-    100%{opacity: 1; transform: rotate(0px,0px);}
-}
-
-@keyframes mymove-text{
-
-    0% {opacity: 0; transform: translate(-100px,0px);}
-    100%{opacity: 1; transform: rotate(0px,0px);}
-}
-
-@keyframes principal{
-    0% {opacity: 0;}
-    100%{opacity: 1;}
-}
-
-@keyframes nav-c{
-    0% {opacity: 0;}
-    100%{opacity: 1;}
 }
 
