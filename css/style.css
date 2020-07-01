@@ -284,4 +284,22 @@ text-align: justify;
         width: 60%;
         padding: 0;
     }
+
+    .menu-js{
+        height: auto;
+    }
+
+    .menu-js nav{
+        height: auto;
+        text-align: center;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+
+    .menu-js a{
+        display: block;
+        border-bottom: solid grey 1px;
+        padding: 10px;
+    }
+
 }
