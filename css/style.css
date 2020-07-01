@@ -252,3 +252,36 @@ text-align: justify;
     0% {opacity: 0;}
     100%{opacity: 1;}
 }
+
+@media (max-width: 1000px){
+    
+    .cel{
+        display: none;
+    }
+    .menu-icon{
+        display: inline-block;
+    }
+
+    .profile-pic{
+        width: 80%;
+        margin-top: 0;
+    }
+    .profile-tex{
+        width: 100%;
+        margin-top: -80px;
+    }
+    .capa{
+        display: block;
+        height: auto;
+        text-align: center;   
+    }
+    .main{
+        padding: 10px 5% 40px 5%;
+    }
+
+    .pic-c{
+        float: none;
+        width: 60%;
+        padding: 0;
+    }
+}
