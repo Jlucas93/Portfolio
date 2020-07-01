@@ -80,6 +80,11 @@ nav a:hover{
     display: none;
 }
 
+nav .menu-icon:hover{
+    color: #53b3cb;
+    cursor: pointer;
+}
+
 
 .profile-pic{
     width: 40%;
