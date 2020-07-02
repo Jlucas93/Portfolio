@@ -2,7 +2,7 @@
 My Portfolio
 
 **tecnologia**
-css e html
+CSS / HTML / JavaSricpt
 
 **autor**
 Foto | Nome | GitHub | Likedin | E-mail
