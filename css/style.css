@@ -239,13 +239,13 @@ text-align: justify;
 
 @keyframes mymove{
 
-    0% {opacity: 0; transform: translate(-10px,0px);}
+    0% {opacity: 0; transform: translate(0px,-10px);}
     100%{opacity: 1; transform: rotate(0px,0px);}
 }
 
 @keyframes mymove-text{
 
-    0% {opacity: 0; transform: translate(-100px,0px);}
+    0% {opacity: 0; transform: translate(0px,100px);}
     100%{opacity: 1; transform: rotate(0px,0px);}
 }
 
